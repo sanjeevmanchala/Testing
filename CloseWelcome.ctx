@@ -1,0 +1,30 @@
+--- RCPTT testcase ---
+Format-Version: 1.0
+Context-Type: org.eclipse.rcptt.ctx.workbench
+Element-Name: CloseWelcome
+Element-Type: context
+Element-Version: 2.0
+Id: _9kZ10O2LEeinU6m9Rwz9kA
+Runtime-Version: 2.3.0.201806262310
+Save-Time: 11/21/18 6:20 PM
+
+------=_.description-216f885c-d591-38ce-8ea2-e4f8cb4d6ffa
+Content-Type: text/plain
+Entry-Name: .description
+
+Close Welcome Screen if it appears
+------=_.description-216f885c-d591-38ce-8ea2-e4f8cb4d6ffa--
+------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf
+Content-Type: q7/binary
+Entry-Name: .q7.content
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAkALmNvbnRlbnRVVAUAAQAAAACVkktPwzAQhO9I/IfI
+d5y2B0SjpAhKD5WKWvEq4oLSZElNHK9lOw/49Wz6FioSPVlazzezYzm8bgrpVWCsQBWxLu8wD1SCqVBZ
+xEr3cXHFrgfnZyGajEMihbbATaKd4zYBFRuBwRxNviBoOUTloHFeU4hgZ9lrLSlE2YDmEVs6pwPfr+ua
+Y5Fx8vVf78dbyd8xO3J73ZIriV9gCtLfColHA8xTcQERG0q0MAeZYEEzkUbsvZ+/dTvT3mQEQj1fFv2H
++ruf3zBP08oaEicqGJOOCI4aFKQZcJ063nbjM4OZAWtnezGj9/G8sBJQ28FhgVLw1ZA/xTafCOtCfy06
+0LcpeuPJ04WKK5HFDg3XssyE2hjc3b7QeQQ/Gkc7Uhf39bgEOJb5C9pnEvhJnUaNlvSE5oS8hYTifysm
+qCxK4MP1eUqv1f9Sblo6KRTsqdA/4XeS/gdQSwcIROSNXFMBAAD1AgAAUEsBAhQAFAAICAgAAAAhAETk
+jVxTAQAA9QIAAAgACQAAAAAAAAAAAAAAAAAAAC5jb250ZW50VVQFAAEAAAAAUEsFBgAAAAABAAEAPwAA
+AJIBAAAAAA==
+------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf--
